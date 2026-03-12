@@ -1,1 +1,1 @@
-# FinSIOD
+In this repository one can find the mp4 videos of the indicator evolutions as well as the the main code (calc_metrics)carried out for finsmod and the other indicators (including as well other siod variants being tested), and also two complementary codes for the sod logic. These codes were written by the author with the assistance of AI agents Opus 4.5 and Gemini 3 Flash.
